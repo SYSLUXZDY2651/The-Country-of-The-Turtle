@@ -70,4 +70,4 @@ Development: Made as a personal programming project
 Learning: Built while learning Python and game development
 
 ## 📜 License
-The Repositories Use Apache-2.0 lincese
+This Game uses the Apache-2.0 License
