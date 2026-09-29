@@ -79,7 +79,7 @@ def wake_up(x, y):
     q.speed("slow")
     bgcolor("tan")
     q.penup()
-             q.goto(100, 125)
+    q.goto(100, 125)
     q.pendown()
     q.begin_fill()
     q.fillcolor("lightgoldenrodyellow")
@@ -119,7 +119,7 @@ def wake_up(x, y):
     q.begin_fill()
     q.fillcolor("white")
     for i in range(4):
-                       q.forward(50)
+        q.forward(50)
         q.left(90)
     q.end_fill()
     q.forward(10)
@@ -200,7 +200,7 @@ def wake_up(x, y):
     q.left(90)
     q.forward(600)
     q.right(90)
-  q.forward(300)
+    q.forward(300)
     q.right(90)
     q.forward(600)
     q.right(90)
@@ -241,7 +241,7 @@ def wake_up(x, y):
     q.end_fill()
     q.color("black")
     q.penup()
-   l.clear()
+    l.clear()
 w_pressed = False
 a_pressed = False
 s_pressed = False
