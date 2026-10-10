@@ -1,5 +1,5 @@
 # The Country Of Turtles, A.k.a Python Turtle Simulator
-A Game By Sakixl Game Studio,The game is about a Turtle's story.Enjoy it!
+A game by Sakixl Studios, about a Turtle's story. Enjoy it!
 
 ## ✨ Features
 
